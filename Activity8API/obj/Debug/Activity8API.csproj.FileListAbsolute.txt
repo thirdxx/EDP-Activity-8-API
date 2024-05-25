@@ -1,0 +1,13 @@
+C:\Users\63912\source\repos\Activity8API\bin\Debug\Activity8API.exe.config
+C:\Users\63912\source\repos\Activity8API\bin\Debug\Activity8API.exe
+C:\Users\63912\source\repos\Activity8API\bin\Debug\Activity8API.pdb
+C:\Users\63912\source\repos\Activity8API\bin\Debug\Newtonsoft.Json.dll
+C:\Users\63912\source\repos\Activity8API\bin\Debug\Newtonsoft.Json.xml
+C:\Users\63912\source\repos\Activity8API\obj\Debug\Activity8API.csproj.AssemblyReference.cache
+C:\Users\63912\source\repos\Activity8API\obj\Debug\Activity8API.Form1.resources
+C:\Users\63912\source\repos\Activity8API\obj\Debug\Activity8API.Properties.Resources.resources
+C:\Users\63912\source\repos\Activity8API\obj\Debug\Activity8API.csproj.GenerateResource.cache
+C:\Users\63912\source\repos\Activity8API\obj\Debug\Activity8API.csproj.CoreCompileInputs.cache
+C:\Users\63912\source\repos\Activity8API\obj\Debug\Activity.CC4413A9.Up2Date
+C:\Users\63912\source\repos\Activity8API\obj\Debug\Activity8API.exe
+C:\Users\63912\source\repos\Activity8API\obj\Debug\Activity8API.pdb
